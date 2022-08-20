@@ -1,2 +1,2 @@
 # Images
-Images host
+Images host for https://github.com/TotalImagine-com/TotalImagine.com
